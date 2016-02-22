@@ -1,7 +1,7 @@
 name: Christian Peacemaker Teams
 favicon: null
-layout_spectrum: 0.07133168028667569
-typography_spectrum: 0.49831472453661263
+layout_spectrum: 0
+typography_spectrum: 0.80019
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5704407880548388
+    - '#cf202f'
+    - '#ffffff'
+    - '#edada3'
+    - '#dc5d61'
+    - '#e38776'
+  brandStrength: 0.75
   lightness: 0.6898446795530617
   saturation: 0.5066032619215548
-  rhythmicContrast: 0.14425494405440986
+  rhythmicContrast: 0.25
 purpose: []
