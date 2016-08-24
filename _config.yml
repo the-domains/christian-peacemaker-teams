@@ -1,20 +1,4 @@
-name: Christian Peacemaker Teams
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.14627
-title: Christian Peacemaker Teams
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cf202f'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6898446795530617
   saturation: 0.5066032619215548
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Christian Peacemaker Teams
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Pittsburgh Peace Church
 purpose: []
