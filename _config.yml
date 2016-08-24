@@ -1,4 +1,3 @@
-layout_spectrum: 0.3501784363761544
 typography_spectrum: 0.8388584386557341
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3501784363761544
 analytics:
   google: null
   facebook: null
@@ -27,7 +27,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b7983aa-e1e6-4993-915f-fe176d768da0.jpg
 title: Pittsburgh Peace Church
 description: 'Gathering in Community: Working for Peace'
 purpose: []
