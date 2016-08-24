@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jennifer A. Yoder
+  email: ''
 name: Pittsburgh Peace Church
 cta:
   domain: null
